@@ -1,0 +1,15 @@
+﻿  Action.cpp
+  AddOct.cpp
+  AddStr.cpp
+  Factory.cpp
+  Menu.cpp
+  OctString.cpp
+C:\Users\Admin\source\repos\OOP_02\OctString.cpp(7,20): warning C4018: <: несоответствие типов со знаком и без знака
+  ShowDec.cpp
+  ShowStr.cpp
+  Main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 345 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  OOP_02.vcxproj -> C:\Users\Admin\source\repos\OOP_02\Release\OOP_02.exe
